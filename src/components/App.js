@@ -12,7 +12,7 @@ const App = () => {
     <div>
       <p>
 
-         You've been on this page for {counter} seconds
+         You've been on this page for {counter} seconds.
       </p>
     </div>
   )
